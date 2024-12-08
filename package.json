@@ -1,0 +1,25 @@
+{
+  "name": "async-generators-parallel",
+  "version": "1.0.0",
+  "description": "Start multiple async iterables at same time with limited concurrency and give result as they completes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deepak-Sangle/Async-Generators-Parallel.git"
+  },
+  "keywords": [
+    "async",
+    "generators",
+    "parallel",
+    "concurrency"
+  ],
+  "author": "Deepak Sangle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deepak-Sangle/Async-Generators-Parallel/issues"
+  },
+  "homepage": "https://github.com/Deepak-Sangle/Async-Generators-Parallel#readme"
+}
